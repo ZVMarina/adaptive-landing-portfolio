@@ -1,0 +1,7 @@
+.hero__contant {
+  max-width: 944px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  padding: 72px 0 71px;
+}
