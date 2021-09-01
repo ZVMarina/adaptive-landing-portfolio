@@ -1,0 +1,10 @@
+.features__list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  column-gap: 16px;
+  row-gap: 63px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
