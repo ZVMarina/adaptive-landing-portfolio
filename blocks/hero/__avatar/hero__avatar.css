@@ -1,4 +1,6 @@
 .hero__avatar {
     border-radius: 100%;
-    border: solid #fff 10px;
+    border: solid #fff 11px;
+    max-width: 384px;
+    height: auto;
 }
