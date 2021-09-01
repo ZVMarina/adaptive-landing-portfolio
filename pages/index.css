@@ -5,6 +5,13 @@
 @import url(../content-title/content-title.css);
 
 /* header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__link/header__link.css);
+/* socials */
+@import url(../blocks/socials/socials.css);
+@import url(../blocks/socials/__item/socials__item.css);
+@import url(../blocks/socials/__link/socials__link.css);
 
 /* hero */
 @import url(../blocks/hero/hero.css);
