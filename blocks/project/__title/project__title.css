@@ -1,0 +1,10 @@
+.project__title {
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 18px;
+    line-height: 1.56;
+    font-weight: bold;
+    max-width: 170px;
+    position: relative;
+    z-index: 2;
+  }
