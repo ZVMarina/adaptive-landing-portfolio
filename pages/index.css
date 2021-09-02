@@ -28,7 +28,6 @@
 
 /* features */
 @import url(../blocks/features/features.css);
-@import url(../blocks/features/__container/features__container.css);
 @import url(../blocks/features/__list/features__list.css);
 @import url(../blocks/features/__item/features__item.css);
 @import url(../blocks/features/__item-name/features__item-name.css);
@@ -36,7 +35,6 @@
 
 /* portfolio */
 @import url(../blocks/portfolio/portfolio.css);
-@import url(../blocks/portfolio/__container/portfolio__container.css);
 @import url(../blocks/portfolio/__projects/portfolio__projects.css);
 @import url(../blocks/project/project.css);
 @import url(../blocks/project/__image/project__image.css);
