@@ -9,3 +9,11 @@
   margin-top: 80px;
   list-style: none;
 }
+
+@media screen and (max-width: 1024px) {
+    .features__list {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        column-gap: 24px;
+    }
+}

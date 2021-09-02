@@ -1,9 +1,10 @@
 .gallery__hover {
     width: 100%;
-    height: calc(100% - 7px);
+    height: 100%;
     background-color: rgb(0, 0, 0);
     opacity: 1;
     transition: ease-in-out 0.4s;
+    max-height: 224px;
 }
 
 .gallery__link:hover .gallery__hover {
