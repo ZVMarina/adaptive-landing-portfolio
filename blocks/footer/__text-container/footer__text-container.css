@@ -1,0 +1,9 @@
+.footer__text-container {
+    max-width: 384px;
+    display: grid;
+    grid-template-rows: repeat(3, minmax(min-content, max-content));
+    grid-template-areas:
+    "contacts"
+    "icon"
+    "privacy";
+}

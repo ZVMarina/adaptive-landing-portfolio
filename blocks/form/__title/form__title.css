@@ -1,0 +1,9 @@
+.form__title {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1.56;
+  color: #000;
+  max-width: 380px;
+  text-align: center;
+  margin: 0;
+}
