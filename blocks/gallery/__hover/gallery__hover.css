@@ -1,0 +1,11 @@
+.gallery__hover {
+    width: 100%;
+    height: calc(100% - 7px);
+    background-color: rgb(0, 0, 0);
+    opacity: 1;
+    transition: ease-in-out 0.4s;
+}
+
+.gallery__link:hover .gallery__hover {
+    opacity: 0.2;
+}

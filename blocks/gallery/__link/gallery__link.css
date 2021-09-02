@@ -1,0 +1,24 @@
+.gallery__link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+    line-height: 20px;
+    font-weight: 500;
+    letter-spacing: 0.32px;
+    position: relative;
+}
+
+.gallery__link::before {
+    content: url(../../../images/section-4/video-icon.svg);
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    z-index: 2;
+}
+
+.gallery__link::after {
+    content: "0:28";
+    position: absolute;
+    right: 28px;
+    top: 6px;
+}
