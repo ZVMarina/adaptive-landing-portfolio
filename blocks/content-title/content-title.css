@@ -5,3 +5,10 @@
   max-width: 438px;
   margin: 0;
 }
+
+@media screen and (max-width: 640px) {
+    .content-title {
+    font-size: 19px;
+    line-height: 1;
+    }
+}

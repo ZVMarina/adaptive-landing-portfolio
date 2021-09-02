@@ -25,5 +25,18 @@
         flex-wrap: nowrap;
         overflow-x: scroll;
         gap: 15px;
+        scrollbar-color: #ffbb01;
+        scrollbar-width: thin;
     }
+}
+
+.gallery__container::-webkit-scrollbar {
+    width: 53px;
+    height: 4px;
+    background-color: #cecece;
+}
+
+.gallery__container::-webkit-scrollbar-thumb {
+    background-color: #ffbb01;
+    border-radius: 6px;
 }

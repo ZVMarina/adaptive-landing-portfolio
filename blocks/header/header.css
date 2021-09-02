@@ -2,3 +2,9 @@
   background-color: #1b2944;
   padding: 41px 0;
 }
+
+@media screen and (max-width: 640px) {
+    .header {
+        padding: 35px 0 46px;
+    }
+}

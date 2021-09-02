@@ -5,3 +5,12 @@
   font-size: 24px;
   line-height: 28px;
 }
+
+@media screen and (max-width: 640px) {
+    .features__item-name {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 6px;
+        margin-top: 22px;
+    }
+}

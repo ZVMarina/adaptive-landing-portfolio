@@ -15,6 +15,7 @@
 @import url(../blocks/socials/__item/socials__item.css);
 @import url(../blocks/socials/__link/socials__link.css);
 @import url(../blocks/socials/_place/socials_place_footer.css);
+@import url(../blocks/socials/__icon/socials__icon.css);
 
 /* hero */
 @import url(../blocks/hero/hero.css);
