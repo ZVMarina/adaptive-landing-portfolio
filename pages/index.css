@@ -2,7 +2,8 @@
 @import url(../vendor/fonts.css);
 
 @import url(../blocks/page/page.css);
-@import url(../content-title/content-title.css);
+@import url(../blocks/content-title/content-title.css);
+@import url(../blocks/section-container/section-container.css);
 
 /* header */
 @import url(../blocks/header/header.css);
@@ -13,6 +14,7 @@
 @import url(../blocks/socials/socials.css);
 @import url(../blocks/socials/__item/socials__item.css);
 @import url(../blocks/socials/__link/socials__link.css);
+@import url(../blocks/socials/_place/socials_place_footer.css);
 
 /* hero */
 @import url(../blocks/hero/hero.css);
@@ -47,3 +49,22 @@
 @import url(../blocks/gallery/__item/gallery__item.css);
 @import url(../blocks/gallery/__link/gallery__link.css);
 @import url(../blocks/gallery/__hover/gallery__hover.css);
+
+/* footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__container.css);
+@import url(../blocks/footer/__text-container/footer__text-container.css);
+@import url(../blocks/footer/__contact-heading/footer__contact-heading.css);
+@import url(../blocks/footer/__contact-data/footer__contact-data.css);
+@import url(../blocks/footer/__contact/footer__contact.css);
+@import url(../blocks/footer/__contacts-list/footer__contacts-list.css);
+@import url(../blocks/footer/__contact/_content/footer__contact_content_phone.css);
+@import url(../blocks/footer/__contact/_content/footer__contact_content_mail.css);
+@import url(../blocks/footer/__contact/_content/footer__contact_content_social-network.css);
+@import url(../blocks/footer/__contact-information/footer__contact-information.css);
+@import url(../blocks/footer/__privacy/footer__privacy.css);
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__title/form__title.css);
+@import url(../blocks/form/__contacts/form__contacts.css);
+@import url(../blocks/form/__input/form__input.css);
+@import url(../blocks/form/__button/form__button.css);

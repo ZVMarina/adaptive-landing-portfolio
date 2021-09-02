@@ -1,0 +1,13 @@
+.footer__contacts-list {
+    max-width: 384px;
+    grid-area: contacts;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, minmax(min-content, max-content));
+    grid-template-areas: 
+    "phone . mail"
+    "network network network"
+}

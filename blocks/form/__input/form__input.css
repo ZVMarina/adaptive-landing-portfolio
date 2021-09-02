@@ -1,0 +1,25 @@
+.form__input {
+  box-sizing: border-box;
+  font-family: inherit;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 2;
+  padding-left: 62px;
+  background-repeat: no-repeat;
+  background-position: 24px;
+  background-color: #f8f8f8;
+  box-shadow: inset 0px 3px 10px rgba(199, 199, 199, 0.25);
+  border-radius: 5px;
+  border: none;
+  width: 380px;
+  height: 70px;
+}
+
+.form__input:first-of-type {
+  background-image: url(../../../images/footer/user-icon.svg);
+  margin-bottom: 20px;
+}
+
+.form__input:last-of-type {
+  background-image: url(../../../images/footer/phone-icon.svg);
+}
