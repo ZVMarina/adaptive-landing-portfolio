@@ -1,6 +1,4 @@
 .gallery__container {
-    max-width: 944px;
-    margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, 1fr);
