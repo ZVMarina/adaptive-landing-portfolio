@@ -1,5 +1,6 @@
 .gallery__item {
     max-width: 100%;
+    transition: transform .3s ease;
     justify-self: center;
 }
 

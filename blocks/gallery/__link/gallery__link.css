@@ -9,6 +9,7 @@
     max-width: 224px;
     max-height: 225px;
     height: calc(100% - 7px);
+    overflow: hidden;
 }
 
 .gallery__link::before {
@@ -24,4 +25,8 @@
     position: absolute;
     right: 28px;
     top: 6px;
+}
+
+.gallery__link:hover .gallery__item {
+    transform: scale(1.05);
 }

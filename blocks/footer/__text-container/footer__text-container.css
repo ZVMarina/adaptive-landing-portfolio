@@ -18,7 +18,8 @@
     .footer__text-container {
         display: flex;
         flex-direction: column;
-        width: 264px;
+        max-width: none;
+        width: 100%;
         margin-top: 0;
     }
 }
