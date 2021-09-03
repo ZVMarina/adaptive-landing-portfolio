@@ -1,0 +1,6 @@
+@media screen and (max-width: 535px) {
+    .socials__icon_place_footer {
+        width: 16px;
+        height: auto;
+    }
+}

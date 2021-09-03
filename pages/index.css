@@ -20,6 +20,8 @@
 @import url(../blocks/socials/__link/socials__link.css);
 @import url(../blocks/socials/_place/socials_place_footer.css);
 @import url(../blocks/socials/__icon/socials__icon.css);
+@import url(../blocks/socials/__icon/_place/socials__icon_place_footer.css);
+@import url(../blocks/socials/__item/_place/socials__item_place_footer.css);
 
 /* hero */
 @import url(../blocks/hero/hero.css);
