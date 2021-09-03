@@ -10,7 +10,7 @@
     background-color: #f8f8f8;
     box-shadow: inset 0px 3px 10px rgba(199, 199, 199, 0.25);
     border-radius: 5px;
-    border: none;
+    border: 1px solid transparent;
     width: 380px;
     height: 70px;
 }

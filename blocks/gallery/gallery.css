@@ -5,7 +5,7 @@
     padding-bottom: 96px;
 }
 
-@media all and (max-width: 540px) {
+@media all and (max-width: 560px) {
     .gallery {
         padding-top: 35px;
         padding-bottom: 34px;
