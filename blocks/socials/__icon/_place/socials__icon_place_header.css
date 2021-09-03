@@ -1,0 +1,7 @@
+.socials__icon_place_header {
+    transition: 0.2s ease;
+}
+
+.socials__icon_place_header:hover {
+    transform: scale(1.1);
+}
