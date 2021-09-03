@@ -1,6 +1,30 @@
 .hero__author {
-  font-size: 50px;
-  line-height: 1.18;
-  margin: 0;
-  margin-bottom: 20px;
+    font-size: 50px;
+    line-height: 1.18;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+@media all and (max-width: 861px) {
+    .hero__author {
+        font-size: 40px;
+    }
+}
+
+@media all and (max-width: 736px) {
+    .hero__author {
+        order: 3;
+        font-size: 50px;
+        line-height: 1.18;
+    }
+}
+
+@media all and (max-width: 394px) {
+    .hero__author {
+        order: 3;
+        font-size: 24px;
+        line-height: 1.17;
+        line-height: 1.18;
+        margin-bottom: 15px;
+    }
 }

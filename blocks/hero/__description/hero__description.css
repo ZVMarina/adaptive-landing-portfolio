@@ -1,8 +1,33 @@
 .hero__description {
-  max-width: 444px;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 28px;
-  margin: 0;
-  margin-bottom: 38px;
+    max-width: 444px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.75;
+    margin: 0;
+    margin-bottom: 38px;
+}
+
+@media all and (max-width: 861px) {
+    .hero__description {
+        font-size: 15px;
+        line-height: 1.55;
+    }
+}
+
+@media all and (max-width: 736px) {
+    .hero__description {
+        order: 4;
+        font-size: 16px;
+        line-height: 1.75;
+    }
+}
+
+@media all and (max-width: 394px) {
+    .hero__description {
+        order: 4;
+        max-width: 267px;
+        font-size: 14px;
+        line-height: 1.4;
+        margin-bottom: 58px;
+    }
 }
