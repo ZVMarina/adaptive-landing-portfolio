@@ -1,0 +1,5 @@
+@media screen and (max-width: 535px) {
+    .form__title-disappear {
+        display: none;
+    }
+}
