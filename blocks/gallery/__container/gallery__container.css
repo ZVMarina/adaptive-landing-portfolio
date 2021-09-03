@@ -25,7 +25,7 @@
         flex-wrap: nowrap;
         overflow-x: scroll;
         gap: 15px;
-        scrollbar-color: #ffbb01;
+        scrollbar-color: #ffbb01 #cecece;
         scrollbar-width: thin;
     }
 }

@@ -10,3 +10,17 @@
 .gallery__link:hover .gallery__hover {
     opacity: 0.2;
 }
+
+@media screen and (max-width: 400px) {
+    .gallery__hover {
+        width: 224px;
+        height: 225px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .gallery__hover {
+        width: 126px;
+        height: 126px;
+    }
+}

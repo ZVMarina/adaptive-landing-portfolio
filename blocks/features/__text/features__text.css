@@ -1,7 +1,7 @@
 .features__text {
-  margin: 0;
-  font-size: 16px;
-  line-height: 28px;
+    margin: 0;
+    font-size: 16px;
+    line-height: 28px;
 }
 
 @media screen and (max-width: 640px) {
@@ -10,5 +10,3 @@
         line-height: 28px;
     }
 }
-
-
