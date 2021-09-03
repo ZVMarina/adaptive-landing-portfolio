@@ -5,7 +5,7 @@
     padding-right: 57px;
 }
 
-@media all and (max-width: 736px) {
+@media all and (max-width: 755px) {
     .hero__container {
         margin: auto;
         text-align: center;

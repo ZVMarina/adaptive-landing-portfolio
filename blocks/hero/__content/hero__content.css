@@ -4,7 +4,7 @@
   padding: 72px 0 71px;
 }
 
-@media all and (max-width: 736px) {
+@media all and (max-width: 755px) {
     .hero__content {
         padding: 11px 0 42px;
         flex-direction: column;
