@@ -11,4 +11,9 @@
     align-items: center;
     justify-content: center;
     text-decoration: none;
+    transition: background-color .3s ease;
+  }
+
+  .project__link:hover {
+    background-color: #db1b3e;
   }
