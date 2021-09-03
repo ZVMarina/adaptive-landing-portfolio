@@ -19,7 +19,7 @@
     }
 }
 
-@media all and (max-width: 394px) {
+@media all and (max-width: 424px) {
     .hero__avatar {
         order: -1;
         margin: auto;

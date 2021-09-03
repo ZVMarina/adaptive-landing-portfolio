@@ -19,7 +19,7 @@
     }
 }
 
-@media all and (max-width: 394px) {
+@media all and (max-width: 424px) {
     .hero__author {
         order: 3;
         font-size: 24px;

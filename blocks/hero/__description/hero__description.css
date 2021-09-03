@@ -22,10 +22,9 @@
     }
 }
 
-@media all and (max-width: 394px) {
+@media all and (max-width: 424px) {
     .hero__description {
         order: 4;
-        max-width: 267px;
         font-size: 14px;
         line-height: 1.4;
         margin-bottom: 58px;
