@@ -1,15 +1,15 @@
 .footer__contact-data {
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 1.75;
-  margin: 0;
-  text-decoration: none;
-  color: #fff;
-  transition: opacity .3s ease;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 1.75;
+    margin: 0;
+    text-decoration: none;
+    color: #fff;
+    transition: opacity 0.3s ease;
 }
 
 .footer__contact-data:hover {
-    opacity: .8;
+    opacity: 0.8;
 }
 
 @media all and (max-width: 535px) {

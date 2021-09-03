@@ -14,10 +14,3 @@
         max-width: calc(100% - 54px);
     }
 }
-
-/* @media screen and (max-width: 1040px) {
-    .section-container {
-        padding-right: 50px;
-        padding-left: 50px;
-    }
-} */
