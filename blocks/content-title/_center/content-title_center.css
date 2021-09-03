@@ -1,0 +1,22 @@
+@media all and (max-width: 971px) {
+    .content-title_center {
+        text-align: center;
+        margin: auto;
+    }
+}
+
+
+@media all and (max-width: 971px) {
+    .content-title_center {
+        font-size: 36px;
+        text-align: center;
+        margin: auto;
+    }
+}
+
+@media all and (max-width: 535px) {
+    .content-title_center {
+        font-size: 19px;
+        line-height: 1.15;
+    }
+}

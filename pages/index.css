@@ -3,6 +3,7 @@
 
 @import url(../blocks/page/page.css);
 @import url(../blocks/content-title/content-title.css);
+@import url(../blocks/content-title/_center/content-title_center.css);
 @import url(../blocks/section-container/section-container.css);
 @import url(../blocks/button/button.css);
 @import url(../blocks/button/_place/button_place_hero.css);

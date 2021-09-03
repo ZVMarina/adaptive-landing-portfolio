@@ -2,3 +2,12 @@
     padding: 25px 102px;
     cursor: pointer;
 }
+
+@media all and (max-width: 535px) {
+    .button_place_footer {
+        padding: 20px 38px 21px 37px;
+        /* width: 220px;
+        height: 54px; */
+        font-size: 10px;
+    }
+}

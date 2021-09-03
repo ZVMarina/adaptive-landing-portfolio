@@ -11,3 +11,10 @@
 .footer__contact-data:hover {
     opacity: .8;
 }
+
+@media all and (max-width: 535px) {
+    .footer__contact-data {
+        font-size: 14px;
+        line-height: 1.14;
+    }
+}

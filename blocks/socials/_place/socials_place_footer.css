@@ -2,3 +2,17 @@
     grid-area: icon;
     margin-bottom: 206px;
 }
+
+@media all and (max-width: 971px) {
+    .socials_place_footer {
+        margin: auto;
+        margin-bottom: 206px;
+    }
+}
+
+@media all and (max-width: 535px) {
+    .socials_place_footer {
+        margin: 0;
+        margin-bottom: 26px;
+    }
+}

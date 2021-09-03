@@ -53,3 +53,10 @@
     font-size: 14px;
     line-height: 2;
 }
+
+@media all and (max-width: 535px) {
+    .form__input {
+        width: 220px;
+        height: 64px;
+    }
+}

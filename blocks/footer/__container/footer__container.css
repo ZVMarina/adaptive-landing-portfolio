@@ -2,4 +2,19 @@
     margin-top: 80px;
     display: flex;
     justify-content: space-between;
+    gap: 96px;
+}
+
+@media all and (max-width: 1022px) {
+    .footer__container {
+        gap: 45px;
+    }
+}
+
+@media all and (max-width: 971px) {
+    .footer__container {
+        margin-top: 60px;
+        flex-direction: column;
+        align-items: center;
+    }
 }
