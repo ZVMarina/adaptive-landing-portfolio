@@ -31,14 +31,14 @@
     }
 }
 
-@media all and (max-width: 971px) {
+@media all and (max-width: 535px) {
     .footer__privacy {
-        margin: auto;
+        margin: 0;
     }
 }
 
 @media all and (max-width: 535px) {
-    .footer__privacy {
-        margin: 0;
+    .footer__privacy::before {
+        width: 86%;
     }
 }
