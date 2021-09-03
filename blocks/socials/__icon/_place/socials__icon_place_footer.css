@@ -1,5 +1,5 @@
 .socials__icon_place_footer {
-    transition: 0.3s ease;
+    transition: opacity 0.3s ease;
 }
 
 .socials__icon_place_footer:hover {

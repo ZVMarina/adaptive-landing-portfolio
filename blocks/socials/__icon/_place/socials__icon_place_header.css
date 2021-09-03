@@ -1,5 +1,5 @@
 .socials__icon_place_header {
-    transition: 0.2s ease;
+    transition: transform 0.2s ease;
 }
 
 .socials__icon_place_header:hover {
