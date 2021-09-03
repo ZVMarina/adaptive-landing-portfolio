@@ -21,5 +21,6 @@
 }
 
 .button:focus {
+    background-color: #ffc31e;
     outline: none;
 }
