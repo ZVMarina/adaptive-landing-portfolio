@@ -1,14 +1,14 @@
 .content-title {
-  font-size: 36px;
-  line-height: 1.17;
-  font-weight: bold;
-  max-width: 438px;
-  margin: 0;
+    font-size: 36px;
+    line-height: 1.17;
+    font-weight: bold;
+    max-width: 438px;
+    margin: 0;
 }
 
 @media screen and (max-width: 640px) {
     .content-title {
-    font-size: 19px;
-    line-height: 1;
+        font-size: 19px;
+        line-height: 1;
     }
 }

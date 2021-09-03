@@ -1,9 +1,9 @@
 .socials__item {
-  margin-right: 21px;
+    margin-right: 21px;
 }
 
 .socials__item:nth-last-of-type(1) {
-  margin-right: 0;
+    margin-right: 0;
 }
 
 @media screen and (max-width: 640px) {
