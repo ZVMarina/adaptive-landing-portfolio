@@ -24,3 +24,21 @@
     color: #fff;
     opacity: 0.8;
 }
+
+@media all and (max-width: 971px) {
+    .footer__privacy {
+        margin: auto;
+    }
+}
+
+@media all and (max-width: 971px) {
+    .footer__privacy {
+        margin: auto;
+    }
+}
+
+@media all and (max-width: 535px) {
+    .footer__privacy {
+        margin: 0;
+    }
+}

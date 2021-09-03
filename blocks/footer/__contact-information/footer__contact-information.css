@@ -5,3 +5,11 @@
     display: flex;
     justify-content: space-between;
 }
+
+@media all and (max-width: 535px) {
+    .footer__contact-information {
+        display: flex;
+        flex-direction: column;
+        row-gap: 13px;
+    }
+}
