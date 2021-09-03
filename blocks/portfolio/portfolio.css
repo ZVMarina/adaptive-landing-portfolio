@@ -3,3 +3,9 @@
     font-family: "Roboto", Arial, Helvetica, sans-serif;
     padding: 64px 0 64px;
 }
+
+@media screen and (max-width: 430px) {
+    .portfolio {
+        padding: 61px 0 89px;
+    }
+}
