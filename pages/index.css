@@ -27,7 +27,6 @@
 @import url(../blocks/hero/__freelancer/hero__freelancer.css);
 @import url(../blocks/hero/__author/hero__author.css);
 @import url(../blocks/hero/__description/hero__description.css);
-@import url(../blocks/hero/__button/hero__button.css);
 @import url(../blocks/hero/__avatar/hero__avatar.css);
 
 /* features */
@@ -69,4 +68,3 @@
 @import url(../blocks/form/__title/form__title.css);
 @import url(../blocks/form/__contacts/form__contacts.css);
 @import url(../blocks/form/__input/form__input.css);
-@import url(../blocks/form/__button/form__button.css);
