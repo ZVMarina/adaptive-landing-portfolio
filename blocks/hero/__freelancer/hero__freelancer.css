@@ -6,14 +6,14 @@
     margin-bottom: 13px;
 }
 
-@media all and (max-width: 861px) {
+@media all and (max-width: 877px) {
     .hero__freelancer {
-        font-size: 16px;
+        font-size: 18px;
         line-height: 1.69;
     }
 }
 
-@media all and (max-width: 736px) {
+@media all and (max-width: 755px) {
     .hero__freelancer {
         order: 2;
         font-size: 24px;

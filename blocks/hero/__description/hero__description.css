@@ -7,14 +7,14 @@
     margin-bottom: 38px;
 }
 
-@media all and (max-width: 861px) {
+@media all and (max-width: 877px) {
     .hero__description {
         font-size: 15px;
         line-height: 1.55;
     }
 }
 
-@media all and (max-width: 736px) {
+@media all and (max-width: 755px) {
     .hero__description {
         order: 4;
         font-size: 16px;

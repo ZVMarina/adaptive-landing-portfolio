@@ -5,13 +5,13 @@
     margin-bottom: 20px;
 }
 
-@media all and (max-width: 861px) {
+@media all and (max-width: 877px) {
     .hero__author {
         font-size: 40px;
     }
 }
 
-@media all and (max-width: 736px) {
+@media all and (max-width: 755px) {
     .hero__author {
         order: 3;
         font-size: 50px;

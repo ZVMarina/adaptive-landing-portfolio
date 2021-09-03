@@ -4,14 +4,14 @@
     align-self: start;
 }
 
-@media all and (max-width: 861px) {
+@media all and (max-width: 877px) {
     .button_place_hero {
         font-size: 11px;
         padding: 20px 57px;
     }
 }
 
-@media all and (max-width: 736px) {
+@media all and (max-width: 755px) {
     .button_place_hero {
         order: 5;
         margin: auto;
