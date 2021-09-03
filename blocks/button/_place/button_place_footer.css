@@ -5,7 +5,8 @@
 
 @media all and (max-width: 535px) {
     .button_place_footer {
-        padding: 20px 38px 21px 37px;
+        width: 100%;
+        padding: 20px 36px;
         font-size: 10px;
     }
 }

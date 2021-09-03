@@ -33,12 +33,6 @@
 
 @media all and (max-width: 535px) {
     .footer__privacy {
-        margin: 0;
-    }
-}
-
-@media all and (max-width: 535px) {
-    .footer__privacy::before {
-        width: 86%;
+        margin: 0 auto 0 0;
     }
 }
