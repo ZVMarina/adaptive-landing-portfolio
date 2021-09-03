@@ -1,3 +1,9 @@
 .footer__contact {
     margin-bottom: 32px;
 }
+
+@media screen and (max-width: 535px) {
+    .footer {
+        margin-bottom: 35px;
+    }
+}
