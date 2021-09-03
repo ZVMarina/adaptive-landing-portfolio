@@ -2,3 +2,10 @@
     max-width: 100%;
     justify-self: center;
 }
+
+@media screen and (max-width: 320px) {
+    .gallery__item {
+        width: 126px;
+        height: auto;
+    }
+}

@@ -9,6 +9,12 @@
     }
 }
 
+@media screen and (max-width: 640px) {
+    .section-container {
+        max-width: calc(100% - 54px);
+    }
+}
+
 /* @media screen and (max-width: 1040px) {
     .section-container {
         padding-right: 50px;

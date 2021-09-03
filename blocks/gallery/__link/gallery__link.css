@@ -11,10 +11,6 @@
     height: calc(100% - 7px);
 }
 
-@media screen and (max-width: 1038px) {
-
-}
-
 .gallery__link::before {
     content: url(../../../images/section-4/video-icon.svg);
     position: absolute;
