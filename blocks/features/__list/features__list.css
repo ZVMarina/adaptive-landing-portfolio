@@ -23,5 +23,6 @@
         grid-template-columns: repeat(1, 1fr);
         grid-template-rows: repeat(6, 1fr);
         row-gap: 30px;
+        margin-top: 59px;
     }
 }
