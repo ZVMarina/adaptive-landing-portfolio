@@ -3,13 +3,11 @@
     border-radius: 6px;
     overflow: hidden;
     width: 304px;
-    /* width: 32.2%; */
-    min-height: 304px;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     align-items: flex-start;
-    padding: 28px 30px;
+    padding: 172px 30px 28px;
     box-sizing: border-box;
 }
 
@@ -27,4 +25,11 @@
     z-index: 1;
     width: 100%;
     height: 100%;
+}
+
+@media screen and (max-width: 430px) {
+    .project {
+        padding: 150px 24px 25px;
+        width: 267px;
+    }
 }
