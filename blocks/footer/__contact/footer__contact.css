@@ -2,7 +2,7 @@
     margin-bottom: 32px;
 }
 
-@media screen and (max-width: 535px) {
+@media all and (max-width: 535px) {
     .footer__contact {
         margin-bottom: 35px;
     }

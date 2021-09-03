@@ -5,7 +5,7 @@
     padding-bottom: 92px;
 }
 
-@media screen and (max-width: 640px) {
+@media all and (max-width: 640px) {
     .features {
         padding-top: 61px;
         padding-bottom: 59px;

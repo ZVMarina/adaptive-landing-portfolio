@@ -6,13 +6,13 @@
     margin: 0;
 }
 
-@media screen and (max-width: 640px) {
+@media all and (max-width: 640px) {
     .content-title {
         font-size: 26px;
     }
 }
 
-@media screen and (max-width: 385px) {
+@media all and (max-width: 385px) {
     .content-title {
         font-size: 19px;
         line-height: 1;

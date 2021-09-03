@@ -27,7 +27,7 @@
     height: 100%;
 }
 
-@media screen and (max-width: 430px) {
+@media all and (max-width: 430px) {
     .project {
         padding: 150px 24px 25px;
         width: 267px;

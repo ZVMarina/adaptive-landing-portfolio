@@ -3,13 +3,13 @@
     margin: auto;
 }
 
-@media screen and (max-width: 1040px) {
+@media all and (max-width: 1040px) {
     .section-container {
         max-width: calc(100% - 80px);
     }
 }
 
-@media screen and (max-width: 640px) {
+@media all and (max-width: 640px) {
     .section-container {
         max-width: calc(100% - 54px);
     }
