@@ -1,13 +1,10 @@
 .project__title {
     margin: 0;
+    margin-bottom: 12px;
     font-size: 18px;
     line-height: 1.56;
     font-weight: bold;
     max-width: 170px;
-    position: absolute;
-    left: 9.868%;
-    bottom: 25%;
-    z-index: 2;
 }
 
 @media screen and (max-width: 430px) {
