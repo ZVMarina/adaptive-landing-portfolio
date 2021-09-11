@@ -10,4 +10,4 @@
 * HTML
 
 ## Ссылка на GitHub Pages
-[https://zvmarina.github.io/adaptive-landing-portfolio/index.html](https://zvmarina.github.io/adaptive-landing-portfolio/index.html "Фрилансер")
+[https://zvmarina.github.io/adaptive-landing-portfolio/index.html](https://zvmarina.github.io/adaptive-landing-portfolio/index.html "Portfolio")
