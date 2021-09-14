@@ -1,0 +1,19 @@
+.hero__picture {
+    border-radius: 100%;
+    border: solid #fff 11px;
+    overflow: hidden;
+}
+
+@media all and (max-width: 755px) {
+    .hero__picture {
+        order: -1;
+        margin: auto;
+        margin-bottom: 17px;
+    }
+}
+
+@media all and (max-width: 535px) {
+    .hero__picture {
+        border-width: 3px;
+    }
+}

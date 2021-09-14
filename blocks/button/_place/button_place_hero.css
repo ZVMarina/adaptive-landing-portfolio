@@ -19,7 +19,7 @@
     }
 }
 
-@media all and (max-width: 424px) {
+@media all and (max-width: 535px) {
     .button_place_hero {
         order: 5;
         margin: auto;
