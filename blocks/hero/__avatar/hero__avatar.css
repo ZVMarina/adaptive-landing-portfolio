@@ -1,31 +1,4 @@
 .hero__avatar {
-    border-radius: 100%;
-    border: solid #fff 11px;
-    max-width: 362px;
-    height: auto;
+    max-width: 100%;
 }
 
-@media all and (max-width: 877px) {
-    .hero__avatar {
-        max-width: 304px;
-    }
-}
-
-@media all and (max-width: 755px) {
-    .hero__avatar {
-        order: -1;
-        margin: auto;
-        margin-bottom: 17px;
-    }
-}
-
-@media all and (max-width: 424px) {
-    .hero__avatar {
-        order: -1;
-        margin: auto;
-        margin-bottom: 17px;
-        width: 107px;
-        height: 107px;
-        border-width: 3px;
-    }
-}

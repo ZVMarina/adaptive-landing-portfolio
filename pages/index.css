@@ -16,13 +16,11 @@
 
 /* socials */
 @import url(../blocks/socials/socials.css);
-@import url(../blocks/socials/__item/socials__item.css);
 @import url(../blocks/socials/__link/socials__link.css);
 @import url(../blocks/socials/_place/socials_place_footer.css);
 @import url(../blocks/socials/__icon/socials__icon.css);
 @import url(../blocks/socials/__icon/_place/socials__icon_place_footer.css);
 @import url(../blocks/socials/__icon/_place/socials__icon_place_header.css);
-@import url(../blocks/socials/__item/_place/socials__item_place_footer.css);
 
 /* hero */
 @import url(../blocks/hero/hero.css);
@@ -31,6 +29,7 @@
 @import url(../blocks/hero/__freelancer/hero__freelancer.css);
 @import url(../blocks/hero/__author/hero__author.css);
 @import url(../blocks/hero/__description/hero__description.css);
+@import url(../blocks/hero/__picture/hero__picture.css);
 @import url(../blocks/hero/__avatar/hero__avatar.css);
 
 /* features */

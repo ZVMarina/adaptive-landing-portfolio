@@ -22,7 +22,7 @@
     }
 }
 
-@media all and (max-width: 424px) {
+@media all and (max-width: 535px) {
     .hero__description {
         order: 4;
         font-size: 14px;

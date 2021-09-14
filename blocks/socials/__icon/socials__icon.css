@@ -1,6 +1,5 @@
-@media all and (max-width: 424px) {
+@media all and (max-width: 535px) {
     .socials__icon {
         width: 16px;
-        height: auto;
     }
 }
